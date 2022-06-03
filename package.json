@@ -1,0 +1,20 @@
+{
+  "name": "vulkan_guide",
+  "version": "0.1.0",
+  "description": "A guide to using Vulkan, as well as a collection of modern graphics topics.",
+  "main": "index.js",
+  "author": "Andrew Mitchell",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vitepress dev pages",
+    "build": "vitepress build pages",
+    "serve": "vitepress serve pages"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.1"
+  },
+  "dependencies": {
+    "@giscus/vue": "^2.0.5"
+  }
+}
