@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/vulkan_guide/',
   lang: 'en-US',
   title: 'Vulkan Guide',
   description: 'A modern guide to Vulkan (with Rust as the source language), along with a collection of modern graphics topics/examples.',
