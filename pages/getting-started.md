@@ -4,4 +4,4 @@ Although I do my best to explain the Rust concepts used throughout this guide, i
 
 **This is temporary, the content is coming soon...**
 
-I suggest you bookmark this page and check back for updates. You can also follow me on Twitter [@andrewmreal](https://twitter.com/andrewmreal)
+I suggest you bookmark this page and check back for updates. You can also follow me on Twitter [@andrewmreal](https://twitter.com/andrewmreal), or watch the [repository](https://github.com/realandrew/vulkan_guide) on Github.

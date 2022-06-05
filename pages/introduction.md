@@ -2,6 +2,8 @@
 
 Welcome! Vulkan Guide is an [open source](https://github.com/realandrew/vulkan_guide) website that attempts to teach the Vulkan graphics API (using the Rust language) and related real-time graphics topics.
 
+Note that this is not the same as The Vulkan Guide from the Khronos Group. If that is what you are looking for you can find it [here](https://github.com/KhronosGroup/Vulkan-Guide?utm_source=vulkanguide.com).
+
 ## What is Vulkan Guide?
 
 Vulkan Guide is a site I created to help others learn Vulkan (and graphics techniques in general). Our language of choice is Rust, for C++ I recommend the tutorials at [vulkan-tutorial.com](https://vulkan-tutorial.com/). I'm certainly not an expert in Vulkan, Rust, or even graphics in general. That's actually my main reason for creating this website. I want to both make it easier for myself to pick up where I left off when it comes to graphics, as well as to help others learn (plus it gives me an excuse to keep learning more). I'm a visual learner and find that reading many existing tutorials is boring and unproductive, I hope to teach in a manner that more people can enjoy and learn from. There are not many good graphics tutorials, even fewer for Vulkan, and even less so for Vulkan using Rust as the primary programming language (which is what we'll be using). 
