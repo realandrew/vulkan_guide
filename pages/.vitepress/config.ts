@@ -26,7 +26,8 @@ export default defineConfig({
       copyright: 'Copyright © 2022-present Andrew Mitchell'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/realandrew/vulkan_guide' }
+      { icon: 'github', link: 'https://github.com/realandrew/vulkan_guide' },
+      { icon: 'discord', link: 'https://discord.gg/xAvr2TDg2N' },
     ]
   }
 })
