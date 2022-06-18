@@ -7,6 +7,11 @@ export default defineConfig({
   appearance: true, // Enable dark theme by default (this is true by default but I want to be explicit)
   lastUpdated: true, // Display the last updated time based on git timestamp
   themeConfig: {
+    nav: [
+      { text: 'Discussion', link: 'https://github.com/realandrew/vulkan_guide/discussions' },
+      { text: 'SDK', link: 'https://vulkan.lunarg.com/' },
+      { text: 'Specs', link: 'https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/' },
+    ],
     sidebar: [
       {
         text: 'Home',
