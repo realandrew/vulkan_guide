@@ -14,7 +14,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'Home',
+        text: 'Table of Contents',
         items: [
           { text: 'Introduction', link: '/introduction' },
           { text: 'Getting Started', link: '/getting-started' },
